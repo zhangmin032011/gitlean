@@ -1,2 +1,0 @@
-jdbc.url=http://localhost:8080/a.html
-jdbc.username=http://localhost:0392/b.html
